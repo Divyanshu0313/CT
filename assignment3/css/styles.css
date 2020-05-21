@@ -6,28 +6,28 @@
 }
 
 body {
- background-color: #39a0ca;
+ background-color: #beef00;
 }
 
 h1 {
-  font-family: 'Tangerine', serif;
+  font-family: 'Comic Sans MS', sans-serif;
   font-size: 62px;
   text-align: center;
   text-shadow: 4px 4px 4px #aaa;
-  color: red;
+  color: white;
 }
 
 h2 {
   text-align: center;
   margin: 0 auto 15px;
-  font-family: 'Lobster', cursive;
+  font-family: ' Comic Sans MS', cursive;
   color: white;
   font-size: 34px;
 }
 
 p {
   color: black;
-  font-family: 'Viga', sans-serif;
+  font-family: 'viga', sans-serif;
 
 }
 
@@ -37,7 +37,7 @@ p {
 
 .navbar-brand { /* Restaurant name */
   font-family: 'Lora', serif;
-  color: #39a0ca;
+  color: ;
   font-size: 1.5em;
   text-transform: uppercase;
   font-weight: bold;
